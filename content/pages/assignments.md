@@ -11,12 +11,42 @@ The written case assignments are to be done in groups. Each group must have thre
 
 \[SKS\] = Simchi-Levi, David, Philip Kaminsky, and Edith Simchi-Levi. _Designing and Managing the Supply Chain_. McGraw Hill/Irwin, 2007. ISBN: 9780073341521.
 
-| CASES |
-| --- |
-| "Case: Meditech Surgical." In \[SKS\], pp. 18-25. |
-| "Case: Steel Works, Inc." In \[SKS\], pp. 27-29 |
-| "Case: Reebok NFL Replica Jerseys : A Case for Postponement." In \[SKS\], pp. 172-177. |
-| "Case: Dell Inc.: Improving the Flexibility of the Desktop PC Supply Chain. " In \[SKS\], pp 179-187. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CASES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Case: Meditech Surgical." In \[SKS\], pp. 18-25.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Case: Steel Works, Inc." In \[SKS\], pp. 27-29
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Case: Reebok NFL Replica Jerseys : A Case for Postponement." In \[SKS\], pp. 172-177.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Case: Dell Inc.: Improving the Flexibility of the Desktop PC Supply Chain. " In \[SKS\], pp 179-187.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each group must submit all four written assignments. Each assignment should be at most 2500 words. In addition to 2500 words of text, you might have tables, figures and possibly an appendix.
 
@@ -27,8 +57,33 @@ Problem Sets
 
 There are three problem sets assigned in this course.
 
-| PROBLEM SETS |
-| --- |
-| Inventory problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn01)) |
-| Supply contracts problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn02)) |
-| Supply chain problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn03))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Inventory problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supply contracts problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Supply chain problem set ([PDF]({{< baseurl >}}/resources/mit15_762js11_assn03))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

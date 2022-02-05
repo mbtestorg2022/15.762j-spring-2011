@@ -58,26 +58,217 @@ Silver, Edward A., David F. Pyke, and Rein Peterson. _Inventory Management and P
 Grading
 -------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Class participation | 10 |
-| Problem sets (3 total, 10 points each) | 30 |
-| Case write-ups (4 total, 20 points each) | 80 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets (3 total, 10 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case write-ups (4 total, 20 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+80
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and course overview | &nbsp; |
-| 2 | Inventory models | Inventory problem set assigned |
-| 3 | Inventory systems | Steel works case write- up due |
-| 4 | Supply chain inventory models | Supply contracts problem set assigned |
-| 5 | Supply chain and postponement |  {{< br >}}{{< br >}} Reebok case write- up due {{< br >}}{{< br >}} Inventory problem set due {{< br >}}{{< br >}}  |
-| 6 | Supply contracts I | Supply chain problem set assigned |
-| 7 | Supply contracts II and procurement strategies | &nbsp; |
-| 8 | Supply chain integration I | &nbsp; |
-| 9 | Supply chain and product design | HP network printer case write-up due |
-| 11 | Supply chain modeling and optimization at Intel | Supply contracts problem set due |
-| 11 | Supply chain and safety stock placement | Supply chain problem set due |
-| 12 | Supply chain integration II | Dell case write-up due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and course overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory models
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory problem set assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory systems
+{{< tdclose >}}
+{{< tdopen >}}
+Steel works case write- up due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain inventory models
+{{< tdclose >}}
+{{< tdopen >}}
+Supply contracts problem set assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain and postponement
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reebok case write- up due
+
+Inventory problem set due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Supply contracts I
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain problem set assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Supply contracts II and procurement strategies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain integration I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain and product design
+{{< tdclose >}}
+{{< tdopen >}}
+HP network printer case write-up due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain modeling and optimization at Intel
+{{< tdclose >}}
+{{< tdopen >}}
+Supply contracts problem set due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain and safety stock placement
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain problem set due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain integration II
+{{< tdclose >}}
+{{< tdopen >}}
+Dell case write-up due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
